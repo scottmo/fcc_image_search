@@ -1,0 +1,27 @@
+{
+  "name": "image_search",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Image Search Abstraction Layer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmo/fcc_image_search.git"
+  },
+  "keywords": [
+    "FreeCodeCamp"
+  ],
+  "author": "Shaocong Mo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmo/fcc_image_search/issues"
+  },
+  "homepage": "https://github.com/scottmo/fcc_image_search#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "google-images": "^2.1.0"
+  }
+}
