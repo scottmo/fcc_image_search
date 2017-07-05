@@ -16,4 +16,4 @@ This project is for [FreeCodeCamp's Project](https://www.freecodecamp.org/challe
     - offset: page number to see more results
 
 ### Examples
-https://scottmo-fcc-img-search.herokuapp.com/cat?offset=2
+https://scottmo-fcc-img-search.herokuapp.com/api/imagesearch/cat?offset=2
